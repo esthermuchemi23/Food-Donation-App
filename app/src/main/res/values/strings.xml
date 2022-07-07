@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="food_donations_app">Food Donations App</string>
+    <string name="donate_and_save_lives">Donate and save lives</string>
+    <string name="description">TODO</string>
+    <string name="login_activity">Login Activity</string>
+</resources>
